@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 from handlers.youtube import youtube_handler, format_choice, handle_plain_link
 
 # Replace this with your real Telegram bot token
-BOT_TOKEN = "7768190495:AAFU_wJ5gRVYG5bRTHCJVN7BWJHI"
+BOT_TOKEN = ""
 
 # Set up logging
 logging.basicConfig(
